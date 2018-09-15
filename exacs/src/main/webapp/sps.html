@@ -1,10 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>sps</title>
+    <meta charset="utf-8">
+    <title>花花旋转</title>
 </head>
 <body>
-sps
+<img id="flower"  src="a.jpg" />
+<!-- 写自己的图片路径-->
+<script>
+    var f = document.getElementById("flower");
+    var r=1;
+    setInterval(function() {
+        f.style.webkitTransform = "rotate("+r+"deg)"
+        r=r+1;
+        /*f.style.MozTransform = "rotate(-90deg)"
+        f.style.msTransform = "rotate(-90deg)"
+        f.style.OTransform = "rotate(-90deg)"*/
+    }, 10)
+</script>
 </body>
-</html>
+</html>　
