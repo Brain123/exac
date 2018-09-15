@@ -8,12 +8,18 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>我是郑海洲</title>
+    <title>薛兵</title>
 </head>
 <body>
     <h1>独坐敬亭山</h1>
     <p>众鸟高飞尽，孤云独去闲。</p>
     <p>相看两不厌，只有敬亭山。</p>
+
+    <h1>南陵别儿童入京</h1>
+    <p>游说万乘苦不早，著鞭跨马涉远道。</p>
+    <p>会稽愚妇轻买臣，余亦辞家西入秦。</p>
+    <p>仰天大笑出门去，我辈岂是蓬蒿人。</p>
 
 <h3>咏鹅</h3>
 <p>鹅鹅鹅,</p>
@@ -60,3 +66,5 @@
 <p>明月来相照。</p>
 </body>
 </html>
+
+
