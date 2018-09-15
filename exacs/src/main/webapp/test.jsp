@@ -8,6 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <title>我是郑海洲</title>
     <title>薛兵</title>
 </head>
 <body>
@@ -37,7 +38,9 @@
 
 <h1>《静夜思》</h1>
 <p>床前明月光，疑是地上霜。</p>
-<p>举头望明月，低头思故乡。</p>
+<p>举头望天空月，低头思故乡。</p>
+<p>举头不告诉你明月，诗句多余。</p>
+<p>多余的诗句.</p>
 
 
 <h1>《将进酒》</h1>
@@ -61,6 +64,7 @@
 
 
 
+<p>郑海洲</p>
 </body>
 </html>
 
