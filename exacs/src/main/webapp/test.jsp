@@ -11,8 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>《八阵图》</h1>
-<p>功盖三分国，名成八阵图。</p>
-<p>江流石不转，遗恨失吞吴。</p>
+
 </body>
 </html>
