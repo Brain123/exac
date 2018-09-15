@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<html>
-<body>
-<h2>Hello World!</h2>
-=======
 <%--
   Created by IntelliJ IDEA.
   User: Administrator
@@ -17,6 +12,10 @@
 </head>
 <body>
 
->>>>>>> 13a48c3006d1c59cd8b7950a629ef15c93ebe242
+<h3>咏鹅</h3>
+<p>鹅鹅鹅,</p>
+<p>曲项向天歌。</p>
+<p>白毛浮绿水，</p>
+<p>红掌拨清波。</p>
 </body>
 </html>
