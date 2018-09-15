@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>我是郑海洲啊</title>
+    <title>我是郑海洲</title>
 </head>
 <body>
 
