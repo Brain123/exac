@@ -12,6 +12,10 @@
 </head>
 <body>
 我是韦杰。
+<<<<<<< HEAD
 RNG 牛逼！
+=======
+RNG牛逼！
+>>>>>>> ead54accfdae4358dd636fb7ec3369a74390d3b3
 </body>
 </html>
