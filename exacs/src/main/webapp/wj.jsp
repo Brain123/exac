@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>weijie</title>
+    <title>韦杰</title>
 </head>
 <body>
 我是韦杰。
+RNG牛逼！
 </body>
 </html>
