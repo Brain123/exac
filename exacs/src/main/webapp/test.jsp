@@ -11,7 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<<<<<<< HEAD
 <h1>吟诗一首</h1>
 <h1>即兴吟诗一首2</h1>
 <h1>《将进酒》</h1>
