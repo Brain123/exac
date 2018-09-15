@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>薛兵</title>
 </head>
 <body>
     <h1>独坐敬亭山</h1>
@@ -33,6 +33,7 @@
 <p>啊哈哈</p>
 <p>大江东去浪淘尽，千古风流人物。</p>
 
+
 <h1>《静夜思》</h1>
 <p>床前明月光，疑是地上霜。</p>
 <p>举头望明月，低头思故乡。</p>
@@ -43,6 +44,7 @@
 <p>君不见高堂明镜悲白发,朝如青丝暮成雪.</p>
 <p>人生得意须尽欢,莫使金樽空对月.</p>
 <p>天生我才必有用</p>
+<p>那是绝对不可能</p>
 
 
 <h1>送别</h1>
