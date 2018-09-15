@@ -1,10 +1,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>管才瑞</title>
+    <title>delete </title>
 </head>
 <body>
 
-12345(没有6)
+delete codes 。。。
 </body>
 </html>
