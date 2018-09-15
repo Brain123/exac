@@ -10,6 +10,13 @@
   <packaging>war</packaging>
 
   <name>dep Maven Webapp</name>
+=======
+  <artifactId>dev</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+
+  <name>dev Maven Webapp</name>
+>>>>>>> ba9d115f779f9d26468db2582bdb6b31821d5f9c
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -30,6 +37,9 @@
 
   <build>
     <finalName>dep</finalName>
+=======
+    <finalName>dev</finalName>
+>>>>>>> ba9d115f779f9d26468db2582bdb6b31821d5f9c
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
