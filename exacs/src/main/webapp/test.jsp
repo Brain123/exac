@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>我是郑海洲啊啊啊</title>
+    <title>我是郑海洲</title>
     <title>薛兵</title>
 </head>
 <body>
@@ -35,13 +35,6 @@
 <p>我是薛兵，我真帅</p>
 <p>我是薛兵，我真帅</p>
 <p>我是薛兵，我真帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
-<p>我是薛兵，我最帅</p>
 <p>我是薛兵，我最帅</p>
 <p>我是薛兵，我最帅</p>
 <p>我是薛兵，我最帅</p>
